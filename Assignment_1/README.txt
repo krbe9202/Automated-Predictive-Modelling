@@ -14,7 +14,8 @@ Ymodel_iii.m: The simplified Hill model (model from assignment instructions)
 func_i.m: Function to estimate the parameters of the polynomial model using the ordinary least square fitting 
 criterion. This is numerically minimized (using fminunc) in run_assigment.m.
 
-func_ii.m: Function to estimate the parameters of the combined Hill-based model using the ordinary least square fitting criterion.This is numerically minimized (using fminunc) in run_assigment.m.
+func_ii.m: Function to estimate the parameters of the combined Hill-based model using the ordinary least square fitting
+criterion. This is numerically minimized (using fminunc) in run_assigment.m.
 
 func_iii.m: Function to estimate the parameters of the simplified Hill model using the ordinary least square fitting criterion.
 This is numerically minimized (using fminunc) in run_assigment.m.
