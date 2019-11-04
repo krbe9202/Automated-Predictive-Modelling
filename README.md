@@ -1,6 +1,6 @@
 # Automated-Predictive-Modelling
 
-ASSIGMENT 1
+ASSIGNMENT 1
 
 run_assignment.m: The main script which runs Task 2-7. Task 6 takes quite alot of time for large n, I'd reduce n or  comment that section of while running the rest of the script.  
 
